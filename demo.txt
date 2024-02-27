@@ -135,3 +135,6 @@ After successful installation, if you now check the current installed version by
 
 cyberithub@ubuntu:~$ git --version
 git version 2.37.0
+
+
+source - https://www.cyberithub.com/how-to-update-git-to-a-newest-version-on-linux-ubuntu-20-04-lts/
