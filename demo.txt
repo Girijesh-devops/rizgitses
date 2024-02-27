@@ -128,13 +128,11 @@ Setting up git-man (1:2.37.0-0ppa1~ubuntu20.04.1) ...
 Setting up git (1:2.37.0-0ppa1~ubuntu20.04.1) ...
 Processing triggers for man-db (2.9.1-1) ... 
 
- 
 Step 7: Check Version
 
 After successful installation, if you now check the current installed version by using git --version command then you will see that this time we have the newest version 2.37.0 available(At the time of writing this article, 2.37.0 is the newest version).
 
 cyberithub@ubuntu:~$ git --version
 git version 2.37.0
-
 
 source - https://www.cyberithub.com/how-to-update-git-to-a-newest-version-on-linux-ubuntu-20-04-lts/
